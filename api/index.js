@@ -6,7 +6,8 @@ const IMG = "https://image.tmdb.org/t/p";
 const GENRES = {
   Action: 28, Comedy: 35, Drama: 18, Romance: 10749,
   Thriller: 53, Horror: 27, Crime: 80, Family: 10751,
-  Animation: 16, Biography: 36, History: 36,
+  Animation: 16, History: 36, Mystery: 9648,
+  War: 10752, Music: 10402,
 };
 
 const manifest = {
